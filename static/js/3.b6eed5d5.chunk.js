@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-hooks-course"]=this["webpackJsonpreact-hooks-course"]||[]).push([[3],{1892:function(o,s,e){"use strict";e.r(s),s.default=function(){return"Hello Lazy Load!"}}}]);
+//# sourceMappingURL=3.b6eed5d5.chunk.js.map
